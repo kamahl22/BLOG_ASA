@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.env
+__pycache__/
+*.db
+*.log
+frontend/dist/
+mobile/android/
+mobile/ios/
+discord_bot/.env
+backend/.env
+blockchain/.env
