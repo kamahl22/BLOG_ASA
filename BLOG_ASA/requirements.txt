@@ -1,0 +1,3 @@
+pyteal
+algosdk
+python-dotenv

@@ -1,0 +1,3 @@
+🔐 EVENT_USER_WALLET Wallet
+Address: KDOJWKWDTEK3UUG7RT4TTNA2EJSEITYN5HJKD3AALL3ZLNRSLL2TNUTPEE
+Mnemonic: "fabric smart treat ball slot bottom increase excess melody plunge strategy tell mirror police purchase luxury turtle method math frog maximum slow curve absorb remain"
